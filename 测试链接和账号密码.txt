@@ -1,0 +1,4 @@
+快捷支付
+测试环境地址：https://paytest.shouyinjia.com
+测试代理商：20170314
+测试密钥：166d6c2dff164b479fa2df14533230456

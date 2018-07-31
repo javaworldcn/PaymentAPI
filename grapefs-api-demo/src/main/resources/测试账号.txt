@@ -1,0 +1,11 @@
+交易地址  https://paytest.shouyinjia.com/gpay/     
+商户进件  https://paytest.shouyinjia.com/mgmt/
+
+
+代理账号 2017041200002   
+密钥166d6c2dff164b479fa2df30533230ad   
+微信交易编码tradeCode：50548
+
+
+商户账号 201704123000034
+密钥8c6cf4e5ca3b4bacb44a34166c435289
